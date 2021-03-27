@@ -1,4 +1,5 @@
 ## Management System
+
 본 프로젝트는 React를 이용해서 만든 고객 관리 시스템(Management System)입니다.
 
 # Getting Started with Create React App
